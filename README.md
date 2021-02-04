@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 Me puedes contactar por mi correo: danielrp211@gmail.com.
 -->
 
-[![danrodguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrodguez)](https://github.com/anuraghazra/github-readme-stats)
+[![danrodguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrodguez)
