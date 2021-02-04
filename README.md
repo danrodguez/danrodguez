@@ -6,4 +6,4 @@
 - 📫 Me puedes contactar por mi correo: danielrp211@gmail.com.
 
 
-[danrodguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrodguez)
+[![danrodguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrodguez)
