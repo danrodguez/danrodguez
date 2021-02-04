@@ -1,11 +1,8 @@
 ### Hola 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📝  Puedes consultar mi CV aqui: https://github.com/danrodguez/CV/blob/main/CV-DanielRodriguezParamos.docx
+- 🔭 Actualmente buscando empleo de programador
+- 📝  Puedes consultar mi CV aqui: https://github.com/danrodguez/CV/blob/main/CV-DanielRodriguezParamos.docx?raw=true
 - 📫 Me puedes contactar por mi correo: danielrp211@gmail.com.
 -->
 
