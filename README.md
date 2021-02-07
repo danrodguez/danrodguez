@@ -1,6 +1,6 @@
 ### Hola 👋
 
-
+- 👨🏽‍💻 se distintos lenguajes pero Android es donde mejor me desarrollo
 - 🔭 Actualmente buscando empleo de programador
 - 📝  Puedes descargar mi cv aqui: https://github.com/danrodguez/CV/blob/main/CV-DanielRodriguezParamos.docx?raw=true
 - 📫 Me puedes contactar por mi correo: danielrp211@gmail.com.
